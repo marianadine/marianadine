@@ -50,13 +50,3 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=marianadine&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=marianadine&icon=7&color=10" />
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
