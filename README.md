@@ -10,16 +10,16 @@
 #### 🌐 Connect with me
 <p align="center">
   <a href="https://facebook.com/mariaafeii">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2/24" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/ae.feyy">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F/24" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/marianadine0912">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5/24" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nadinerufo7@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836/24" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
