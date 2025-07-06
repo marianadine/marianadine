@@ -9,17 +9,16 @@
 
 #### 🌐 Connect with me
 <p align="center">
-  <a href="https://facebook.com/mariaafeii">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  <a href="https://linkedin.com/in/marianadine0912" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marianadine0912" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ae.feyy">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/mariaafeii" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariaafeii" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/marianadine0912">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nadinerufo7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ae.feyy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ae.feyy" height="30" width="40" />
   </a>
 </p>
 
