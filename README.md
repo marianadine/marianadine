@@ -22,6 +22,21 @@
   </a>
 </p>
 
+<p align="left"><strong>🚀 Latest Projects Uploaded on Vercel</strong></p>
+
+<p align="center">
+  <a href="https://clickbyfei.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/previews/clickbyfei.png" alt="ClickbyFei Preview" width="400" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://madebyfei.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/previews/madebyfei.png" alt="MadebyFei Preview" width="400" />
+  </a>
+</p>
+
+
+
+
 #### 🛠️ Tech Stack
 
 <p align="center"><strong>Languages & Markup</strong></p>
