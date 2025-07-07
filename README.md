@@ -42,8 +42,6 @@
   </tr>
 </table>
 
-#### 🛠️ Tech Stack
-
 <p align="center"><strong>Languages & Markup</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
