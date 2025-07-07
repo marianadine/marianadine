@@ -7,7 +7,6 @@
 🎓 4th Year Information Technology student<br>📍 Specializing in Mobile and Web Applications at National University – MOA
 <br>💻 Focused on Frontend Development<be>
 
-#### 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/marianadine0912" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marianadine0912" height="30" width="40" />
