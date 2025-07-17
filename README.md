@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   Hi! I'm Nadine.
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=4th+Year+Information+Technology+Student;Frontend+Development;UI%2FUX+Learner" alt="Typing SVG" />
