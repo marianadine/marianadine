@@ -24,19 +24,19 @@
 <p align="center"><strong>🚀 Latest Projects Uploaded on Vercel</strong></p>
 <table align="center">
   <tr>
-    <td align="center">
+      <td align="center">
+        <a href="https://madebyfei.vercel.app/" target="_blank">
+          <img src="https://raw.githubusercontent.com/marianadine/marianadine/013a629ddcf547f105f7f705026ad42790cad89d/portss.png" alt="MadeByFei Portfolio Preview" width="400" />
+        </a>
+        <br />
+        <em>MadeByFei — Personal Portfolio Website</em>
+      </td>
+     <td align="center">
       <a href="https://clickbyfei.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/marianadine/marianadine/main/previews/clickdss.png" alt="ClickdByFei Preview" width="400" />
+        <img src="https://raw.githubusercontent.com/marianadine/marianadine/013a629ddcf547f105f7f705026ad42790cad89d/clickdss.png" alt="ClickdByFei Preview" width="400" />
       </a>
       <br />
       <em>ClickdByFei — Digital Photobooth Web App</em>
-    </td>
-    <td align="center">
-      <a href="https://madebyfei.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/marianadine/marianadine/main/previews/portss.png" alt="MadeByFei Portfolio Preview" width="400" />
-      </a>
-      <br />
-      <em>MadeByFei — Personal Portfolio Website</em>
     </td>
   </tr>
 </table>
