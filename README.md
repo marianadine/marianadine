@@ -26,14 +26,14 @@
   <tr>
     <td align="center">
       <a href="https://clickbyfei.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/marianadine/marianadine/5a788cd7efaac49c4fcdc1a70af17b733d02d6be/previews/clickdss.png" alt="ClickdByFei Preview" width="400" />
+        <img src="https://raw.githubusercontent.com/marianadine/marianadine/main/previews/clickdss.png" alt="ClickdByFei Preview" width="400" />
       </a>
       <br />
       <em>ClickdByFei — Digital Photobooth Web App</em>
     </td>
     <td align="center">
       <a href="https://madebyfei.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/marianadine/marianadine/5a788cd7efaac49c4fcdc1a70af17b733d02d6be/previews/portss.png" alt="MadeByFei Portfolio Preview" width="400" />
+        <img src="https://raw.githubusercontent.com/marianadine/marianadine/main/previews/portss.png" alt="MadeByFei Portfolio Preview" width="400" />
       </a>
       <br />
       <em>MadeByFei — Personal Portfolio Website</em>
