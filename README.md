@@ -46,7 +46,7 @@
         <img src="https://github.com/marianadine/marianadine/blob/98b538f8f7bc1ddbc81f05449090ab38925baa91/maisonss.png" alt="Maison Sucre Preview" width="400" />
       </a>
       <br />
-      <em>Maison Sucre - Ecommerce Web App Project</em>
+      <em>Maison Sucre — Ecommerce Web App Project</em>
     </td>
   </tr>
 </table>
