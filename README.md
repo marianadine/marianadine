@@ -39,6 +39,16 @@
       <em>ClickdByFei — Digital Photobooth Web App</em>
     </td>
   </tr>
+
+  <tr>
+     <td align="center">
+      <a href="https://clickbyfei.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/marianadine/marianadine/013a629ddcf547f105f7f705026ad42790cad89d/clickdss.png" alt="ClickdByFei Preview" width="400" />
+      </a>
+      <br />
+      <em>ClickdByFei — Digital Photobooth Web App</em>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><strong>Languages & Markup</strong></p>
