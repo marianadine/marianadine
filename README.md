@@ -42,11 +42,11 @@
 
   <tr>
      <td align="center">
-      <a href="https://clickbyfei.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/marianadine/marianadine/013a629ddcf547f105f7f705026ad42790cad89d/clickdss.png" alt="ClickdByFei Preview" width="400" />
+      <a href="https://maisonsucre.vercel.app/" target="_blank">
+        <img src="https://github.com/marianadine/marianadine/blob/98b538f8f7bc1ddbc81f05449090ab38925baa91/maisonss.png" alt="Maison Sucre Preview" width="400" />
       </a>
       <br />
-      <em>ClickdByFei — Digital Photobooth Web App</em>
+      <em>Maison Sucre - Ecommerce Web App Project</em>
     </td>
   </tr>
 </table>
