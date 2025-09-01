@@ -21,7 +21,6 @@
   </a>
 </p>
 
-<p align="center"><strong>🚀 Latest Projects Uploaded on Vercel</strong></p>
 <table align="center">
   <tr>
       <td align="center">
@@ -33,7 +32,8 @@
       </td>
   </tr>
 </table>
-
+<br/>
+<p align="center"><strong>🚀 Latest Projects Uploaded on Vercel</strong></p>
 <table align="center">
   <tr>
      <td align="center">
