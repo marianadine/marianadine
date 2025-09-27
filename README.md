@@ -48,7 +48,7 @@
         <img src="https://github.com/marianadine/marianadine/blob/98b538f8f7bc1ddbc81f05449090ab38925baa91/maisonss.png" alt="Maison Sucre Preview" width="400" />
       </a>
       <br />
-      <em>Maison Sucre — Ecommerce Web App Project</em>
+      <em>Maison Sucre — E-commerce Web App Project</em>
     </td>
   </tr>
 </table>
@@ -88,5 +88,5 @@
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=marianadine&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=marianadine&theme=dark&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianadine&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianadine&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
