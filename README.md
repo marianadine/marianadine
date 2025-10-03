@@ -30,6 +30,13 @@
         <br />
         <em>MadeByFei — Personal Portfolio Website</em>
       </td>
+      <td align="center">
+        <a href="https://www.solarsphere.homes/" target="_blank">
+          <img src="https://github.com/marianadine/marianadine/blob/bd67f8d3821bd5e2a621ea7bd5df626234ecbb98/spheress.png" alt="MadeByFei Portfolio Preview" width="400" />
+        </a>
+        <br />
+        <em>SolarSphere — Capstone Project</em>
+      </td>
   </tr>
 </table>
 <br/>
