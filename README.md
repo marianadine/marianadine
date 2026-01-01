@@ -16,9 +16,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariaafeii" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ae.feyy" target="_blank">
+  <!-- <a href="https://instagram.com/ae.feyy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ae.feyy" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <table align="center">
