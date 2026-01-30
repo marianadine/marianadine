@@ -5,7 +5,7 @@
 </h1>
 
 🎓 4th Year Information Technology student<br>📍 Specializing in Mobile and Web Applications at National University – MOA
-<br>💻 Focused on Frontend Development<be>
+<br>💻 Focused on UI/UX Design<be>
 
 <p align="center">
   <a href="https://linkedin.com/in/marianadine0912" target="_blank">
